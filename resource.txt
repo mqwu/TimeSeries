@@ -1,0 +1,3 @@
+# facebook open source focasting tools
+
+https://research.fb.com/prophet-forecasting-at-scale/
